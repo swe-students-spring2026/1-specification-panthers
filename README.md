@@ -4,7 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+- Hanson Huang [(Github)](https://github.com/Hansonhzh)
+- Aaron Hui [(Github)](https://github.com/aaronthmetic)
+- Sarah Randhawa
+- Marcus Song
+- Han Xiao
 
 ## Stakeholders
 
@@ -21,6 +25,12 @@ See instructions. Delete this line and place a list of your User Stories here.
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+
+![placeholder](diagrams/uml/placeholder.jpg)
+
+## Wireframes
+
+![placeholder](diagrams/wireframes/placeholder.jpg)
 
 ## Clickable Prototype
 
