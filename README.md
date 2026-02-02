@@ -6,8 +6,8 @@ A little exercise to get started with the specification phase of the software de
 
 - Hanson Huang [(Github)](https://github.com/Hansonhzh)
 - Aaron Hui [(Github)](https://github.com/aaronthmetic)
-- Sarah Randhawa
-- Marcus Song
+- Sarah Randhawa [(Github)](https://github.com/sarahrandhawa)
+- Marcus Song [(Github)](https://github.com/Marclous)
 - Han Xiao
 
 ## Stakeholders
