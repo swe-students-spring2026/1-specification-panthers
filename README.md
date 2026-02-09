@@ -16,7 +16,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+An app to help students manage their on-campus dining needs by buying and selling meal swipes, ordering food, and viewing dining hall availability.
 
 ## User Requirements
 
