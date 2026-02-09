@@ -30,7 +30,7 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Wireframes
 
-![placeholder](diagrams/wireframes/placeholder.jpg)
+![wireframe](diagrams/wireframes/wireframe.png)
 
 ## Clickable Prototype
 
