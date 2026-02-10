@@ -54,6 +54,7 @@ An app to help students manage their on-campus dining needs by buying and sellin
 9. As a buyer, I want to filter a list of dining halls by category so I can efficiently find where I want to eat.
 10. As a buyer, I want to deposit money into the app so I can buy meal swipes.
 11. As a buyer, I want to be able to add a payment method into the app so that I can buy meal swipes without having to deposit money each time.
+12. As a buyer, I want to be able to verify my student status so that I can access the app's features and buy meal swipes.
 
 ### User Type: Seller
 1. As a seller, I want to be able to sell meal swipes so I can turn extra swipes into money.
@@ -68,12 +69,25 @@ An app to help students manage their on-campus dining needs by buying and sellin
 10. As a seller, I want to be able to view the hours of dining halls so that I know when the earliest/latest I can go and pick up food is.
 11. As a seller, I want to see the occupancy/how busy the dining spaces are so I can save time by not waiting in line.
 12. As a seller, I want to filter a list of dining halls by category so I can efficiently find where I want to eat.
+13. As a seller, I want to be able to verify my student status so that I can access the app's features and sell meal swipes.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### Verification: As a buyer/seller, I want to be able to verify my student status so that I can access the app's features.
 
-![placeholder](diagrams/uml/placeholder.jpg)
+![uml1](diagrams/uml/1.png)
+
+### See Dining Halls and Menus: As a buyer/seller, I want to filter a list of dining halls by category so I can efficiently find where I want to eat.
+
+![uml1](diagrams/uml/2.png)
+
+### Buy Meal Swipes: As a buyer, I want to be able to buy meal swipes and meals so that I can not be hungry.
+
+![uml1](diagrams/uml/3.png)
+
+### Sell Meal Swipes: As a seller, I want to be able to sell meal swipes so I can turn extra swipes into money.
+
+![uml1](diagrams/uml/4.png)
 
 ## Wireframes
 
