@@ -20,21 +20,21 @@ We interviewed two stakeholders and identified goals, needs, desires, problems, 
 
 Natt is on a meal plan, and may not use all of their meal swipes by the end of the semester. Thus, they would be a potential seller of meal swipes on this app.
 
-Question: Hi guys! For our SWE project, we are planning to make an application where students can sell their meal swipes to students who don't have meal swipes or buy meal swipes from students who have an excess, for a lower cost than it would be otherwise. Let me know if you guys have any insights on the current system, any problems that you see, and anything that you would like to see implemented if this project were to actually exist.
+**Question**: Hi guys! For our SWE project, we are planning to make an application where students can sell their meal swipes to students who don't have meal swipes or buy meal swipes from students who have an excess, for a lower cost than it would be otherwise. Let me know if you guys have any insights on the current system, any problems that you see, and anything that you would like to see implemented if this project were to actually exist.
 
-Answer: Only thing I have a question for is how would meal swipes be distributed among those who are receiving? Would it be a lottery? First come first serve? Limit to how many meal swipes a person can receive? Is there a qualification to the service to limit the number of users?
+**Answer**: Only thing I have a question for is how would meal swipes be distributed among those who are receiving? Would it be a lottery? First come first serve? Limit to how many meal swipes a person can receive? Is there a qualification to the service to limit the number of users?
 
 #### Stakeholder 2: Andy Liu (User Type: Buyer)
 
 Andy is not on a meal plan, and would be a potential buyer of meal swipes on this app.
 
-Question: Hi guys! For our SWE project, we are planning to make an application where students can sell their meal swipes to students who don't have meal swipes or buy meal swipes from students who have an excess, for a lower cost than it would be otherwise. Let me know if you guys have any insights on the current system, any problems that you see, and anything that you would like to see implemented if this project were to actually exist.
+**Question**: Hi guys! For our SWE project, we are planning to make an application where students can sell their meal swipes to students who don't have meal swipes or buy meal swipes from students who have an excess, for a lower cost than it would be otherwise. Let me know if you guys have any insights on the current system, any problems that you see, and anything that you would like to see implemented if this project were to actually exist.
 
-Answer: I have no insights on the current system. I have never had a meal plan before. I’d like to see a giveaway system!
+**Answer**: I have no insights on the current system. I have never had a meal plan before. I’d like to see a giveaway system!
 
-Question: Would you consider buying meals via this app if this were to exist?
+**Question**: Would you consider buying meals via this app if this were to exist?
 
-Answer: I think the biggest factor for me really would be the price.
+**Answer**: I think the biggest factor for me really would be the price.
 
 ## Product Vision Statement
 
@@ -42,11 +42,11 @@ An app to help students manage their on-campus dining needs by buying and sellin
 
 ## User Requirements
 
-User Type: Buyer
+### User Type: Buyer
 1. As a buyer, I want to be able to buy meal swipes and meals so that I can not be hungry.
 2. As a buyer, I want to be able to connect to the Grubhub menu directly in-app so I can efficiently order food.
 3. As a buyer, I want to be able to place orders from the menu directly in-app so that my order can be placed hassle-free.
-4. As a buyer, I want to be able to filter sellers by price so that I can save the most money on food/
+4. As a buyer, I want to be able to filter sellers by price so that I can save the most money on food.
 5. As a buyer, I want to access my profile tab to edit my personal information.
 6. As a buyer, I want to view how many swipes I own so that I could manage my usage.
 7. As a buyer, I want to be able to view the hours of dining halls so that I know when the earliest/latest I can go and pick up food is.
@@ -55,16 +55,16 @@ User Type: Buyer
 10. As a buyer, I want to deposit money into the app so I can buy meal swipes.
 11. As a buyer, I want to be able to add a payment method into the app so that I can buy meal swipes without having to deposit money each time.
 
-User Type: Seller
+### User Type: Seller
 1. As a seller, I want to be able to sell meal swipes so I can turn extra swipes into money.
 2. As a seller, I want to be able to connect to the Grubhub menu directly in-app so I can efficiently order food.
-3. As a seller, I want to be able to place orders from the menu directly in-app so that my order can be placed hassle-free. (fix in uml diagram so i can choose what i want)
+3. As a seller, I want to be able to place orders from the menu directly in-app so that my order can be placed hassle-free.
 4. As a seller, I want to be able to filter sellers by price so that I can save the most money on food/
 5. As a seller, I want to access my profile tab to edit my personal information.
 6. As a seller, I want to select the price at which I will sell meal swipes
 7. As a seller, I want to be notified when someone buys my meal swipes
 8. As a seller, I want to transfer money from my sales out of the app
-9. As a seller, I want to be able to add a payment method into the app so that I can receive payment without having to transfer money out of my account each time
+9. As a seller, I want to be able to add a payment method into the app so that I can receive payment without having to transfer money out of my account each time.
 10. As a seller, I want to be able to view the hours of dining halls so that I know when the earliest/latest I can go and pick up food is.
 11. As a seller, I want to see the occupancy/how busy the dining spaces are so I can save time by not waiting in line.
 12. As a seller, I want to filter a list of dining halls by category so I can efficiently find where I want to eat.
