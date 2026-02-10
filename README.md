@@ -81,4 +81,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+Prototype Link: https://www.figma.com/proto/B0E2GEFdXOUmb3MoT2vTJm/Panthers-Prototype?node-id=1-365&p=f&t=lOiccMRrQGnJgt2D-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A365
