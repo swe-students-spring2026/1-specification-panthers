@@ -12,7 +12,29 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+We interviewed two stakeholders and identified goals, needs, desires, problems, and frustrations.
+
+### Interviews
+
+#### Stakeholder 1: Natt Hong (User Type: Seller)
+
+Natt is on a meal plan, and may not use all of their meal swipes by the end of the semester. Thus, they would be a potential seller of meal swipes on this app.
+
+Question: Hi guys! For our SWE project, we are planning to make an application where students can sell their meal swipes to students who don't have meal swipes or buy meal swipes from students who have an excess, for a lower cost than it would be otherwise. Let me know if you guys have any insights on the current system, any problems that you see, and anything that you would like to see implemented if this project were to actually exist.
+
+Answer: Only thing I have a question for is how would meal swipes be distributed among those who are receiving? Would it be a lottery? First come first serve? Limit to how many meal swipes a person can receive? Is there a qualification to the service to limit the number of users?
+
+#### Stakeholder 2: Andy Liu (User Type: Buyer)
+
+Andy is not on a meal plan, and would be a potential buyer of meal swipes on this app.
+
+Question: Hi guys! For our SWE project, we are planning to make an application where students can sell their meal swipes to students who don't have meal swipes or buy meal swipes from students who have an excess, for a lower cost than it would be otherwise. Let me know if you guys have any insights on the current system, any problems that you see, and anything that you would like to see implemented if this project were to actually exist.
+
+Answer: I have no insights on the current system. I have never had a meal plan before. I’d like to see a giveaway system!
+
+Question: Would you consider buying meals via this app if this were to exist?
+
+Answer: I think the biggest factor for me really would be the price.
 
 ## Product Vision Statement
 
